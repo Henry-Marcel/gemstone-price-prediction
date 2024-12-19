@@ -62,11 +62,11 @@ The dataset contains the following features:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stars-classification.git
+   git clone https://github.com/yourusername/gemstone-price-prediction.git
    
 2. Navigate to the project directory
    ```bash
-   cd stars-classification
+   cd gemstone-price-prediction
    
 3. Install dependencies:
    ```bash
@@ -74,5 +74,5 @@ The dataset contains the following features:
 
 4. Run the notebook:
    ```bash
-   jupyter notebook notebooks/stars_classification.ipynb
+   jupyter notebook notebooks/gemstone_price_prediction.ipynb
 
